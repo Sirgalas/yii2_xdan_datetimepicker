@@ -1,0 +1,33 @@
+{
+    "name": "sirgalas/yii2_xdan_datetimepicer",
+    "description": "extension trying to create a xdan datetimepicker",
+    "version": "0.1.0",
+    "type": "yii2-extension",
+    "keywords": [
+        "yii2",
+        "xdan",
+        "datetimepicker",
+        "extension",
+        "widget"
+    ],
+    "homepage": "https://github.com/Sirgalas/yii2-xban-datapicer",
+    "time": "2017-09-06",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Serge Beloventsev",
+            "email": "hudos@rambler.ru",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/Sirgalas/yii2-xban-datapicer/issues",
+        "source": "https://github.com/Sirgalas/yii2-xban-datapicer"
+    },
+    "autoload": {
+        "psr-4": {
+            "sirgalas\\yii2_xdan_datetimepicer\\": ""
+        }
+    }
+}
