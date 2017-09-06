@@ -1,6 +1,6 @@
 <?php
 
-namespace sirgalas\yii2-xdan-datetimepicker;
+namespace sirgalas\yii2_xdan_datetimepicker;
 use yii\widgets\InputWidget;
 use yii\helpers\Html;
 use yii\helpers\Json;
