@@ -1,6 +1,6 @@
 <?php
 
-namespace sirgalas\yii2_xdan_datetimepicker;
+namespace sirgalas\yii2_xdan_datetimepicer;
 use yii\web\AssetBundle;
 
 class XdanAssets  extends AssetBundle
